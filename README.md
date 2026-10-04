@@ -97,10 +97,10 @@ ArtiFinalProject.ipynb
     ├── Evaluating performance on test dataset
     └── Plotting Training vs. Validation Loss and Accuracy curves
 
-REQUIREMENTS:
+##REQUIREMENTS
 
 Ensure you have the following dependencies installed in your environment:
-
+<br>
 -python >= 3.10
 
 -tensorflow >= 2.17.0
@@ -114,9 +114,12 @@ Ensure you have the following dependencies installed in your environment:
 -matplotlib
 
 -numpy
-
+<br>
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<br>
    
 
 📜 License
 
 This project is open-source and available under the MIT License.
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
