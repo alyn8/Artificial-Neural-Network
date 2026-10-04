@@ -103,21 +103,15 @@ ArtiFinalProject.ipynb
 
 Ensure you have the following dependencies installed in your environment:
 
-- python >= 3.10
+- `python >= 3.10`
+- `tensorflow >= 2.17.0`
+- `keras >= 3.5.0`
+- `scikit-learn`
+- `scikeras`
+- `matplotlib`
+- `numpy`
 
-- tensorflow >= 2.17.0
-
-- keras >= 3.5.0
-
-- scikit-learn
-
-- scikeras
-
-- matplotlib
-
--numpy
-
-  
+---
 
 📜 License
 
