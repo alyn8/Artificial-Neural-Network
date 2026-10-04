@@ -96,7 +96,7 @@ ArtiFinalProject.ipynb
 └── 📈 6. Evaluation & Visualization
     ├── Evaluating performance on test dataset
     └── Plotting Training vs. Validation Loss and Accuracy curves
-
+```
 ---
 
 ## 📋 Requirements
