@@ -4,7 +4,7 @@
 ![Python](https://img.shields.io/badge/Python-3.10%2F3.11-blue)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-2.17+-orange)
 ![Keras](https://img.shields.io/badge/Keras-3.5+-red)
-![License](https://img.shields.io/badge/License-MIT-green)
+[![License](https://img.shields.io/badge/License-MIT-green)](https://github.com/alyn8/ANN/blob/main/LICENSE)
 
 This project is an Artificial Neural Network (ANN) implementation designed to classify handwritten digits from the MNIST dataset using Deep Learning techniques. It covers model optimization, dynamic learning rate scheduling (Learning Rate Decay), and performance evaluation.
 
@@ -115,4 +115,4 @@ Ensure you have the following dependencies installed in your environment:
 
 📜 License
 
-This project is open-source and available under the MIT License.
+This project is open-source and available under [MIT License](https://github.com/alyn8/ANN/blob/main/LICENSE).
