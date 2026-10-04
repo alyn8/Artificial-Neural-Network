@@ -1,4 +1,3 @@
-# ARTIFICIAL NEURAL NETWORKS
 # 🧠 MNIST ile Yapay Sinir Ağları (ANN) Sınıflandırma Projesi
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/alyn8/ANN/blob/main/ArtiFinalProject.ipynb)
@@ -81,3 +80,18 @@ Model **60 Epoch** ve **196 / 64 Batch Size** seçenekleriyle eğitilmiştir:
    ```bash
    git clone [https://github.com/alyn8/ANN.git](https://github.com/alyn8/ANN.git)
    cd ANN
+2. Gerekli kütüphaneleri yükleyin:
+   ```bash
+    pip install tensorflow keras scikeras scikit-learn matplotlib numpy
+3. Jupyter Notebook veya Google Colab üzerinden projeyi çalıştırın:
+   ```bash
+   jupyter notebook ArtiFinalProject.ipynb
+   
+📂 Dosya Yapısı
+   ANN/
+├── ArtiFinalProject.ipynb   # Ana projenin kodlarını içeren Jupyter Notebook
+└── README.md                # Proje dokümantasyonu
+
+📜 Lisans
+ ```bash
+Bu proje MIT Lisansı altında lisanslanmıştır.
